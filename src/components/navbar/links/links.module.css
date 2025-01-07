@@ -3,3 +3,9 @@
   align-items: center;
   gap: 10px;
 }
+
+.logout {
+  cursor: pointer;
+  padding: 10px;
+  font-weight: bold;
+}
