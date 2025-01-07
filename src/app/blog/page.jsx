@@ -1,5 +1,5 @@
-const SinglePostPage = () => {
-  return <> SinglePostPage </>;
+const BlogPage = () => {
+  return <> BlogPage </>;
 };
 
-export default SinglePostPage;
+export default BlogPage;
